@@ -1,16 +1,20 @@
-## Hi there 👋
+## About Me
 
-<!--
-**abism101/abism101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **IT Technician | Linux & Networking | Cybersecurity Enthusiast**
 
-Here are some ideas to get you started:
+IT technician focused on **Linux, networking, cybersecurity, system administration, and hardware troubleshooting**. I enjoy building practical tools, automating tasks, working with infrastructure, and exploring security technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+* 🐧 **Linux:** Debian, Parrot OS, Kali Linux, system administration and troubleshooting
+* 🪟 **Windows:** installation, configuration, optimization and troubleshooting
+* 🌐 **Networking:** TCP/IP, DNS, DHCP, VLANs, routing, firewalls and network configuration
+* 🔐 **Cybersecurity:** reconnaissance, OSINT, Nmap, passive enumeration and security research
+* 🐍 **Programming:** Python and Bash scripting
+* 🐳 **Infrastructure:** Docker, WireGuard, Pi-hole, Grafana and network monitoring
+* 💾 **Hardware:** PC assembly, diagnostics, BIOS/UEFI, SSD/NVMe and hardware troubleshooting
+* 🧰 **Tools:** Git, GitHub, Cisco Packet Tracer and various security tools
+
+### 🚀 Interests
+
+Cybersecurity, Linux, networking, infrastructure, automation, system administration and developing custom security/reconnaissance tools.
