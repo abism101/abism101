@@ -1,20 +1,15 @@
-## About Me
+**IT Technician | Linux & Networking | Cybersecurity Enthusiast**
 
-💻 **IT Technician | Linux & Networking | Cybersecurity Enthusiast**
-
-IT technician focused on **Linux, networking, cybersecurity, system administration, and hardware troubleshooting**. I enjoy building practical tools, automating tasks, working with infrastructure, and exploring security technologies.
+IT technician focused on **Linux, networking, cybersecurity, system administration, infrastructure, and hardware troubleshooting**. I enjoy building practical tools, automating tasks, working with systems and networks, and exploring cybersecurity and emerging technologies.
 
 ### 🛠️ Skills
 
-* 🐧 **Linux:** Debian, Parrot OS, Kali Linux, system administration and troubleshooting
-* 🪟 **Windows:** installation, configuration, optimization and troubleshooting
-* 🌐 **Networking:** TCP/IP, DNS, DHCP, VLANs, routing, firewalls and network configuration
-* 🔐 **Cybersecurity:** reconnaissance, OSINT, Nmap, passive enumeration and security research
-* 🐍 **Programming:** Python and Bash scripting
-* 🐳 **Infrastructure:** Docker, WireGuard, Pi-hole, Grafana and network monitoring
-* 💾 **Hardware:** PC assembly, diagnostics, BIOS/UEFI, SSD/NVMe and hardware troubleshooting
-* 🧰 **Tools:** Git, GitHub, Cisco Packet Tracer and various security tools
-
-### 🚀 Interests
-
-Cybersecurity, Linux, networking, infrastructure, automation, system administration and developing custom security/reconnaissance tools.
+* 🐧 **Linux:** system administration, configuration, troubleshooting and system management
+* 🪟 **Windows:** installation, configuration, optimization, maintenance and troubleshooting
+* 🌐 **Networking:** TCP/IP, DNS, DHCP, VLANs, routing, switching, firewalls and network configuration
+* 🔐 **Cybersecurity:** reconnaissance, OSINT, network security, vulnerability assessment, security research and penetration testing fundamentals
+* 🐍 **Programming:** Python, Bash scripting and automation
+* ☁️ **Infrastructure:** system deployment, virtualization, containers, networking infrastructure and monitoring
+* 💾 **Hardware:** PC assembly, diagnostics, maintenance, BIOS/UEFI, storage, components and hardware troubleshooting
+* ⚙️ **Systems Administration:** system configuration, services, permissions, backups, monitoring and troubleshooting
+* 🧰 **Development & Tools:** version control, scripting, automation and technical tooling
