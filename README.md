@@ -1,3 +1,15 @@
+## 👋 About Me
+
+💻 IT Technician focused on **Systems, Networking and Cybersecurity**.
+
+I enjoy building practical tools, troubleshooting systems, experimenting with Linux
+and learning how infrastructure and networks work from the inside.
+
+Currently expanding my knowledge in **Python, Linux, networking and cybersecurity**.
+
+
+
+
 ## 🛠️ Tech Stack
 
 ### 💻 Systems & IT
@@ -55,7 +67,7 @@
 - 🛠️ **Troubleshooting** — Diagnosing and resolving hardware, software, system and connectivity issues.
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abism101&layout=compact&hide_border=true)
+
 
 
 
