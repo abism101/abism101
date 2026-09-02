@@ -39,3 +39,18 @@
 ![ntopng](https://img.shields.io/badge/ntopng-444444?style=for-the-badge)
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pihole&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+## 🧠 Competencies
+
+- 🖥️ **IT Support & Hardware** — Hardware assembly, maintenance, diagnostics and troubleshooting.
+- 🔧 **Hardware Troubleshooting** — CPU, RAM, storage, BIOS/UEFI, peripherals and component diagnostics.
+- 🐧 **Linux Administration** — Linux/Debian installation, configuration, maintenance and troubleshooting.
+- 🌐 **Networking** — TCP/IP, OSI model, DHCP, DNS, VLANs, IP addressing, routing and network configuration.
+- 🔐 **Cybersecurity** — Reconnaissance, network analysis, OSINT and security practices in controlled environments.
+- 🔎 **OSINT & Reconnaissance** — Open-source intelligence, enumeration, domain reconnaissance and public information analysis.
+- 🐍 **Automation & Scripting** — Developing tools and automations with Python and Bash.
+- ⚙️ **Infrastructure** — Docker, Proxmox, Linux services and self-hosted environments.
+- 📊 **Monitoring** — System, network and performance monitoring and analysis.
+- 🛠️ **Troubleshooting** — Diagnosing and resolving hardware, software, system and connectivity issues.
+
