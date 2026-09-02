@@ -65,6 +65,24 @@ Currently expanding my knowledge in **Python, Linux, networking and cybersecurit
 - ⚙️ **Infrastructure** — Docker, Proxmox, Linux services and self-hosted environments.
 - 📊 **Monitoring** — System, network and performance monitoring and analysis.
 - 🛠️ **Troubleshooting** — Diagnosing and resolving hardware, software, system and connectivity issues.
+## 🚀 Featured Projects
+
+### 🔎 SubRecon
+Lightweight subdomain reconnaissance and enumeration tool.
+
+### 🖥️ H-Check
+Hardware information, system diagnostics and machine health utility.
+
+### 🌐 Pulse
+Network connectivity and performance testing tool.
+
+### ❤️ Heartbeat
+Lightweight system health and monitoring utility.
+
+### 👁️ LAN Watcher
+Simple LAN device discovery and activity monitoring tool.
+
+
 
 
 
