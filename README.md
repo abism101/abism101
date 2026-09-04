@@ -79,7 +79,7 @@ Network connectivity and performance testing tool.
 ### ❤️ Heartbeat
 Lightweight system health and monitoring utility.
 
-### 👁️ LAN Watcher
+### 👁️ Linq
 Simple LAN device discovery and activity monitoring tool.
 
 
